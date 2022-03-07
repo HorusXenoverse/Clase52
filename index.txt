@@ -1,0 +1,19 @@
+//Se debe colocar siempre al inicio de una página web para que sepa que es una página web
+<!DOCTYPE html>
+
+//Se coloca luego el html y dentro se colocan las demás instrucciones
+<html>
+//El encabezado de la página web
+<head>
+    <title> Mi sitio web </title>
+</head>
+//Es el cuerpo de la página web que va a ser donde se coloquen los textos y demás
+<body>
+<h1> Tomás.J </h1>
+
+<a>Mis proyectos</a>
+<a>About me</a>
+
+</body>
+
+</html>

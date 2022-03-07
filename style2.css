@@ -1,0 +1,15 @@
+body{
+ background-color: #1bbb0d;   
+}
+
+
+
+.aboutMeEncabezado{
+    display: flex;
+    color: aqua;
+}
+
+.aboutMeTexto{
+    display: flex;
+    color: aqua;
+}

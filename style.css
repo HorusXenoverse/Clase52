@@ -1,0 +1,140 @@
+h1{
+color: rgba(211, 214, 18, 0.856);
+padding-left: 50px;
+}
+
+.encabezado{
+background-color: rgba(19, 102, 211, 0.685);
+display:  flex;
+justify-content: space-between;}
+
+.encabezado2{
+padding-top: 15px;
+padding-right: 20px;
+}
+.encabezado2 a{
+margin-left: 10px;
+}
+
+.proyectos{
+display: flex;
+justify-content: space-evenly;
+}
+
+.redes{
+display: flex;
+justify-content: flex-end;
+padding-top: 165px;
+}
+
+body{
+    background-color: rgba(39, 198, 204, 0.644);
+    font-size: large;
+}
+
+p{
+ color: rgba(0, 0, 0, 0.829);
+ text-align: center;
+}
+.juego1{
+position: relative;
+}
+.juego1 p{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+opacity: 0;
+}
+.juego1:hover p{
+    opacity: 1;
+}
+.juego1:hover Img{
+    opacity: 0.70;
+}
+
+.juego2{
+    position: relative;
+    }
+    .juego2 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+    }
+    .juego2:hover p{
+        opacity: 1;
+    }
+    .juego2:hover Img{
+        opacity: 0.70;
+    }
+
+        .juego3{
+        position: relative;
+        }
+        .juego3 p{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        opacity: 0;
+        }
+        .juego3:hover p{
+            opacity: 1;
+        }
+        .juego3:hover Img{
+            opacity: 0.70;
+        }
+
+        .juego4{
+            position: relative;
+            }
+            .juego4 p{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            opacity: 0;
+            }
+            .juego4:hover p{
+                opacity: 1;
+            }
+           .juego4:hover Img{
+             opacity: 0.70;
+            }
+
+            .juego5{
+                position: relative;
+                }
+                .juego5 p{
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%,-50%);
+                opacity: 0;
+                }
+                .juego5:hover p{
+                    opacity: 1;
+                }
+                .juego5:hover Img{
+                    opacity: 0.70;
+                }
+
+
+h2{
+ color: rgba(0, 0, 0, 0.829);
+ text-align: center;
+}
+
+a:link{
+    color: yellow;
+}
+
+a:visited{
+    color: rgb(192, 192, 21);
+}
+
+.texto1{
+ margin: 20px;
+}
